@@ -1,7 +1,10 @@
   <h1> Hi, I’m Paulo Andrade </h1>
+  <h3>Full Stack Web Developer PHP & Python</h3>
   
   
-- 👀 I’m looking to collaborate on projects related to the web.
+- 👀 I’m looking to collaborate on projects related to web applications.
+- 👍Share ideas. Work together. Integrate efforts.
+
 - 📫 How to reach me: 
 
 <div>
