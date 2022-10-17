@@ -4,14 +4,15 @@
 - 👀 I’m looking to collaborate on projects related to the web.
 - 📫 How to reach me: https://www.linkedin.com/in/devpauloandrade/
 
-
+<p>&nbsp;</p>
 <div>
 <a href="https://github.com/Paulo-AndradeDev"></a>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-AndradeDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-AndradeDev&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-
+<p>&nbsp;</p>
 <div style="display: inline-block;">
+  <center>
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
             <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
             <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" />
@@ -36,4 +37,6 @@
             <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
             <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
             <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  </div>
+  </center>
+    </div>
+    <p>&nbsp;</p>
