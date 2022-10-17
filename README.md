@@ -53,3 +53,4 @@
 	<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </div>
        
+       ![GitHub Org's stars](https://img.shields.io/github/stars/Paulo-AndradeDev?style=social)
