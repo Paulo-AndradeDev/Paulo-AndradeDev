@@ -59,7 +59,7 @@
             <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress"/>
             <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda"/>
             <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio"/>
-	    <a href="https://commons.wikimedia.org/wiki/File:W3Schools_logo.svg">W3Schools</a>, Public domain, via Wikimedia Commons
+	    
 	    
   </center>
     </div>
