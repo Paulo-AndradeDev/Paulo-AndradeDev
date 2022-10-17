@@ -5,12 +5,15 @@
 - 📫 How to reach me: https://www.linkedin.com/in/devpauloandrade/
 
 <p>&nbsp;</p>
+
 <div>
 <a href="https://github.com/Paulo-AndradeDev"></a>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-AndradeDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-AndradeDev&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+
 <p>&nbsp;</p>
+
 <div style="display: inline-block;">
   <center>
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
@@ -40,7 +43,8 @@
   </center>
     </div>
     
-    <p>&nbsp;</p>
+
+<p>&nbsp;</p>
     
 <div>
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
