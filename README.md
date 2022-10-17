@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Paulo-AndradeDev
+ <h1> Hi, I’m Paulo Andrade </h1>
 - 👀 I’m interested in Python | Django | PHP | Ci4 | OOP | MySQL/SQLite | MVC/MTV | API REST | Design Patterns | Data structure and algorithms.
 - 🌱 I’m currently learning software analysis and development at the university for 2 years
 - 💞️ I’m looking to collaborate on projects related to the web.
